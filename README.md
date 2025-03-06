@@ -27,30 +27,52 @@
 ![Prediction](https://github.com/hari1715/Personal-Fitness-Tracker-using-Python/blob/main/Calorie%20Prediction.png)  
 
 ## 🏃‍♂️ Installation & Usage  
-1️⃣ **Clone the repository**  
+1️⃣ **Clone the repository** 
+
 git clone [https://github.com/hari1715/Personal-Fitness-Tracker-using-Python]
 cd personal-fitness-tracker
+
 2️⃣ Install dependencies
 pip install -r requirements.txt
+
 3️⃣ Run the application
 streamlit run app.py
+
+
 📂 Project Structure
+
 📁 personal-fitness-tracker
+
  ┣ 📄 app.py            # Main Streamlit app
+ 
  ┣ 📄 requirements.txt  # Python dependencies
+ 
  ┣ 📄 calories.csv      # Dataset (if included)
+ 
  ┣ 📄 exercise.csv      # Dataset (if included)
+ 
  ┗ 📄 README.md         # Documentation
+
+ 
 🧑‍💻 Future Enhancements
+
 🚀 User Authentication - Secure login for personalized data tracking
+
 📈 Workout History - Save and compare past workouts
+
 📊 AI-based Recommendations - Suggest exercises based on fitness level
 
+
 🎯 Contributing
+
 Pull requests are welcome! If you'd like to contribute, please fork the repo and submit a PR.
 
+
 📜 License
+
 📝 This project is licensed under the MIT License.
 
+
 💌 Contact
+
 For queries, feel free to connect via [LinkedIn](www.linkedin.com/in/erharish15) or email at [Link Text](harisher1505@gmail.com).
