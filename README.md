@@ -28,7 +28,7 @@
 
 ## 🏃‍♂️ Installation & Usage  
 1️⃣ **Clone the repository**  
-git clone https://github.com/your-username/personal-fitness-tracker.git
+git clone [https://github.com/hari1715/Personal-Fitness-Tracker-using-Python]
 cd personal-fitness-tracker
 2️⃣ Install dependencies
 pip install -r requirements.txt
