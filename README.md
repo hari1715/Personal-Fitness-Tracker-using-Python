@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots  
 🔹 **User Dashboard:**  
-![Dashboard](<img width="1275" alt="image" src="https://github.com/user-attachments/assets/d4cabe74-48a6-439c-8650-13598637f818" />)  
+![Dashboard](https://github.com/hari1715/Personal-Fitness-Tracker-using-Python/blob/main/user%20dashboard.png)  
 
 🔹 **Calorie Prediction:**  
 ![Prediction](https://your-image-link.com)  
