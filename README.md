@@ -30,12 +30,15 @@
 1️⃣ **Clone the repository** 
 
 git clone [https://github.com/hari1715/Personal-Fitness-Tracker-using-Python]
+
 cd personal-fitness-tracker
 
 2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the application
+
 streamlit run app.py
 
 
