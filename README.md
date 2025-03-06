@@ -42,7 +42,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 📁 personal-fitness-tracker
 
@@ -57,7 +57,7 @@ streamlit run app.py
  ┗ 📄 README.md         # Documentation
 
  
-🧑‍💻 Future Enhancements
+## 🧑‍💻 Future Enhancements
 
 🚀 User Authentication - Secure login for personalized data tracking
 
@@ -66,16 +66,15 @@ streamlit run app.py
 📊 AI-based Recommendations - Suggest exercises based on fitness level
 
 
-🎯 Contributing
+## 🎯 Contributing
 
 Pull requests are welcome! If you'd like to contribute, please fork the repo and submit a PR.
 
 
-📜 License
+## 📜 License
 
 📝 This project is licensed under the MIT License.
 
 
-💌 Contact
-
+## 💌 Contact
 For queries, feel free to connect via [LinkedIn](www.linkedin.com/in/erharish15) or email at [Link Text](harisher1505@gmail.com).
