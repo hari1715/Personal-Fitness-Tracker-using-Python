@@ -24,7 +24,7 @@
 ![Dashboard](https://github.com/hari1715/Personal-Fitness-Tracker-using-Python/blob/main/user%20dashboard.png)  
 
 🔹 **Calorie Prediction:**  
-![Prediction](https://your-image-link.com)  
+![Prediction](https://github.com/hari1715/Personal-Fitness-Tracker-using-Python/blob/main/Calorie%20Prediction.png)  
 
 ## 🏃‍♂️ Installation & Usage  
 1️⃣ **Clone the repository**  
